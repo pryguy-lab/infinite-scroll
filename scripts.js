@@ -43,7 +43,7 @@ function displayPhotos() {
   });
 }
 
-const count = 1;
+const count = 5;
 const apiKey = "aWJNYAqRxvk42zBc98QMo3roc5dHvxZmHpnV5NrT9bA";
 
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
